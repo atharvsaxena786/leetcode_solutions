@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/atharvsaxena786/leetcode_solutions/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
